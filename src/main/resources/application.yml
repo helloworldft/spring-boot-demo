@@ -1,0 +1,9 @@
+server:
+  port: 9081
+debug: true
+logging:
+  file: log.log
+spring:
+  h2:
+    console:
+      enabled: true
